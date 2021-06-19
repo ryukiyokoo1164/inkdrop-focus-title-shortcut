@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Add a keyboard shortcut for focusing title and editor alternately.",
   "keywords": [],
-  "repository": "https://github.com/ryukiyokoo1164/focus-title-shortcut",
+  "repository": "https://github.com/ryukiyokoo1164/inkdrop-focus-title-shortcut",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
