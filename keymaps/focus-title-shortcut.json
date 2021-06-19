@@ -1,0 +1,9 @@
+{
+  ".editor-header-title-input input": {
+    "f2": "editor:focus"
+ },
+     
+  ".CodeMirror textarea": {
+    "f2": "editor:title:focus"
+ }
+}
